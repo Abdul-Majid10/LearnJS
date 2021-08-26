@@ -37,4 +37,7 @@ document.write("<br>" + typeof DOBDate);
 
 //Operator
 // ** exponentioal
-//All same as PHP 
+//All same as PHP
+
+// all logigal and comparision operation are same as PHP
+
